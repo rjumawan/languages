@@ -97,7 +97,7 @@
   "activation_code" : "Activation Code",
   "activation_code_tooltip" : "Only enter if you haven't already activated your account",
   "seed_phrase_info" : "Please enter your seed and passphrase below and we will attempt to restore your wallet. If you are trying to restore your Fundraiser/ICO wallet please select the 'Fundraiser Wallet' tab instead (even if you have restored it previously)",
-  "private_key_info" : 'Please enter your private key and we will attempt to restore your wallet. This option is for those users who have exported a private key from the Tezos client (or have generated one elsewhere). Currently we only accept the "edsk..." and the "edesk..." variants. You will need to enter your encryption password if you are trying to import an encrypted private key ("edesk..")',
+  "private_key_info" : "Please enter your private key and we will attempt to restore your wallet. This option is for those users who have exported a private key from the Tezos client (or have generated one elsewhere). Currently we only accept the \"edsk...\" and the \"edesk...\" variants. You will need to enter your encryption password if you are trying to import an encrypted private key (\"edesk..\")",
   "private_key_tooltip" : "Your private key can be exported from the Tezos Client or other wallets, and will start with edesk or edsk",
   "encryption_password" : "Encryption Password",
   "encryption_password_tooltip" : "This is the password used in the Tezos Client to encrypt your private key",
