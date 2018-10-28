@@ -31,7 +31,7 @@
   "error_positive_fee" : "Invalid fee entered - please enter a positive number",
   "error_invalid_amount" : "Invalid amount entered - please enter a valid number",
   "error_invalid_fee" : "Invalid fee entered - please enter a valid number",
-  "error_valid_delegate" : "Please enter or a valid delegate",
+  "error_valid_delegate" : "Please enter a valid delegate",
   "awesome" : "Awesome!",
   "uh_oh" : "Uh-oh!",
   "are_you_sure" : "Are you sure?",
