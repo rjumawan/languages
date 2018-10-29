@@ -189,7 +189,7 @@
   "delegation_success": "Delegierung war erfolgreich! Es kann ein paar Minuten dauern, bis sie in die Blockchain aufgenommen wird.",
   "delegation_failed": "Delegierung fehlgeschlagen!",
   "import_kt_address": "KT-Adressen importieren",
-  "import_kt_address_info": "Wir haben $$ KT1-Adresse(n) gefunden, die mit Ihrem Public Key verknüpft sind. Wollen Sie sie jetzt importieren? (Sie können sie auch später importieren über Optionen > Importieren)",
+  "import_kt_address_info": "Wir haben $$ mit Ihrem Account in Zusammenhang stehende KT1-Adresse(n) gefunden. Wollen Sie sie jetzt importieren? (Sie können sie auch später importieren über Optionen > Importieren)",
   "yes_import_them": "Ja, importieren!",
   "ico_restore_success": "Sie haben Ihre ICO Wallet erfolgreich wiederhergestellt. Wenn Sie gerade Ihren Account aktiviert haben, beachten Sie bitte, dass es ein paar Minuten dauern kann, bis Ihr Kontostand erscheint.",
   "transaction_confirm_info": "Sie sind im Begriff $$ XTZ an $$ zu schicken. Diese Transaktion kann nicht rückgängig gemacht werden!"
