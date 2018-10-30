@@ -108,7 +108,7 @@
   "linking" : "Bağlanıyor...",
   "ledger_confirm_transaction" : "Lütfen Ledger Nano S cihazınızdaki transferi onaylayınız",
   "ledger_verify_address" : "Lütfen Ledger Nano S cihazınızdaki adresi onaylayınız",
-  "ledger_retreived_address" : "Ledger cihazınızdan bu adrese ulaşım sağladık",
+  "ledger_retrieved_address" : "Ledger cihazınızdan bu adrese ulaşım sağladık",
   "ledger_error_connect" : "Ledger Nano S cihazınıza bağlanırken bir sorunla karşılaştık. Lütfen cihazınızın bağlı olduğundan ve Tezos Cüzdan uygulamasının seçili olduğundan emin olun.",
   "ledger_error_signing" : "Ledger cihazınızla bu operasyonu gerçekleştirirken bir hata oluştu",
   "details_dont_match" : "Üzgünüm, bu bilgiler uyuşmamaktadır - lütfen tekrar deneyin, veya geri dönerek yeni cüzdan oluşturabilirsiniz",
