@@ -173,7 +173,7 @@
   "import" : "导入",
   "remove_account" : "删除账户",
   "connected_to" : "连接到",
-  "not_connected" : "无连接",        
+  "not_connected" : "无网络连接",        
   "remove_account_warning" : "您将从钱包里删除这个账号! (您将来可以在 设置 > 导入 里来重新恢复它)",
   "yes_remove_it" : "好的，删除它！",
   "originate_warning" : "建立新账号会使用一次大约0.257个XTZ的费用，您想要继续吗？",
