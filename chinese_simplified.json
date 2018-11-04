@@ -173,8 +173,8 @@
   "import" : "导入",
   "remove_account" : "删除账户",
   "connected_to" : "连接到",
-  "not_connected" : "未连接",        
-  "remove_account_warning" : "您从钱包里将删除这个账号! (您将来可以在 设置 > 导入 里来重新恢复它)",
+  "not_connected" : "无连接",        
+  "remove_account_warning" : "您将从钱包里删除这个账号! (您将来可以在 设置 > 导入 里来重新恢复它)",
   "yes_remove_it" : "好的，删除它！",
   "originate_warning" : "建立新账号会使用一次大约0.257个XTZ的费用，您想要继续吗？",
   "yes_continue" : "是的，继续！",
@@ -192,5 +192,5 @@
   "import_kt_address_info" : "我们找到了$$个KT1地址关联到您的公钥 - 您是否想导入它们呢? (您也可以通过 设置 > 导入 来进行手工导入)",
   "yes_import_them" : "是的，导入它们！",
   "ico_restore_success" : "您已经成功恢复了您的ICO钱包。如果您才刚刚激活，可能需要等待一些时间才会显示余额。",
-  "transaction_confirm_info" : "您将发送$$XTZ到$$ - 此交易不可撤销",
+  "transaction_confirm_info" : "您将发送$$XTZ到$$ - 此交易执行后不可撤销",
 }
