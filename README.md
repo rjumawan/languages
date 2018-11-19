@@ -32,3 +32,18 @@ The second $$ will be replaced with the destination address of the transaction
 ## Paid Translations
 
 We are currently looking to pay for full translations - please send a message to @TezBox_Wallet on Twitter with the language and the cost in USD to create a new translation
+
+## Credits
+
+Thanks to all of the following contributons who have helped to provide various translations for TezBox!
+
+* Russian - Uladzimir Bialko and @bvabonda (provided for free)
+* German - @whaleHunterBiz (provided for free)
+* Turkish - @dorukbaggins, reviewed by @oliversimon (provided for free)
+* Chinease - @catsigma (provided for free)
+* Spanish - @Dlanzag (provided for free)
+* Brazilian Portugese - Luiz Milfont  @luizmilfont (provided for free)
+* Romanian - ₳ndrei Cristian @kimorq94
+* Korean - @SnowCareBeauty
+* Slovak - Daniel Mitera @DanielMitera
+* Japanese - @xujiachen89
